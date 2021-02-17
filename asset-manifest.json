@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Credit-Card-Landing-page/static/css/main.50fb7fe3.chunk.css",
+    "main.js": "/Credit-Card-Landing-page/static/js/main.48558d7c.chunk.js",
+    "main.js.map": "/Credit-Card-Landing-page/static/js/main.48558d7c.chunk.js.map",
+    "runtime-main.js": "/Credit-Card-Landing-page/static/js/runtime-main.fac0d6c0.js",
+    "runtime-main.js.map": "/Credit-Card-Landing-page/static/js/runtime-main.fac0d6c0.js.map",
+    "static/js/2.64561829.chunk.js": "/Credit-Card-Landing-page/static/js/2.64561829.chunk.js",
+    "static/js/2.64561829.chunk.js.map": "/Credit-Card-Landing-page/static/js/2.64561829.chunk.js.map",
+    "static/js/3.a47567e4.chunk.js": "/Credit-Card-Landing-page/static/js/3.a47567e4.chunk.js",
+    "static/js/3.a47567e4.chunk.js.map": "/Credit-Card-Landing-page/static/js/3.a47567e4.chunk.js.map",
+    "index.html": "/Credit-Card-Landing-page/index.html",
+    "static/css/main.50fb7fe3.chunk.css.map": "/Credit-Card-Landing-page/static/css/main.50fb7fe3.chunk.css.map",
+    "static/js/2.64561829.chunk.js.LICENSE.txt": "/Credit-Card-Landing-page/static/js/2.64561829.chunk.js.LICENSE.txt",
+    "static/media/google_play.4fb2bac2.png": "/Credit-Card-Landing-page/static/media/google_play.4fb2bac2.png",
+    "static/media/multi.84e2ead7.png": "/Credit-Card-Landing-page/static/media/multi.84e2ead7.png",
+    "static/media/pic_1.37d4a41a.png": "/Credit-Card-Landing-page/static/media/pic_1.37d4a41a.png",
+    "static/media/pic_2.956ca696.png": "/Credit-Card-Landing-page/static/media/pic_2.956ca696.png",
+    "static/media/pic_3.440e4b42.png": "/Credit-Card-Landing-page/static/media/pic_3.440e4b42.png",
+    "static/media/pic_4.e4bd2016.png": "/Credit-Card-Landing-page/static/media/pic_4.e4bd2016.png",
+    "static/media/twinkle.fc3f1952.png": "/Credit-Card-Landing-page/static/media/twinkle.fc3f1952.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fac0d6c0.js",
+    "static/js/2.64561829.chunk.js",
+    "static/css/main.50fb7fe3.chunk.css",
+    "static/js/main.48558d7c.chunk.js"
+  ]
+}
