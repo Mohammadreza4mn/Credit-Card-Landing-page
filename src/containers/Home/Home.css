@@ -1,0 +1,11 @@
+.icon-shadow{
+  filter: drop-shadow(0px 0px 5px #00000080);
+}
+
+.btn-apple-shadow {
+  box-shadow: 0 8px 1px 0px #dc7b06;
+}
+
+.btn-google-shadow {
+  box-shadow: 0 8px 1px 0px #2e64d6;
+}
