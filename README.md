@@ -1,6 +1,7 @@
 # Credit Card Landing page :credit_card: <br/>
 :sunny: You can switch between dark and light using the bottom bar of the website :new_moon: <br />
-This project was [tailwindcss](https://tailwindcss.com) with [Create React App](https://github.com/facebook/create-react-app).
+This project was [tailwindcss](https://tailwindcss.com) with [Create React App](https://github.com/facebook/create-react-app). <br/>
+:basketball: The design of this Landing page belongs to [Ashik](https://dribbble.com/shots/14911512-Credit-Card-Landing-page)
 
 ## Available Scripts
 
